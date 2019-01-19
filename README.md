@@ -6,25 +6,20 @@ Wihogora Wivine
 ## Description
 This is a bank account program
 
-Link to site
-https://wihogora.github.io/Pig-dice/
+## Link to site
+https://wihogora.github.io/Bank-account/
 
-BDD
-Specification: JavaScript Quiz
-
-Input player names
-Click ready
-Game starts
-Roll
-after Hold
-Technologies Used
-Html
-Css
-Javascript
-Jquery
-Bootstrap
-Support and contact details
+## BDD
+This program will help the user to create account and put his initial balance, and deposit,withdraw to his account and then see the current balance.
+## Technologies used
+* HTML
+* CSS
+* BOOTSTRAP
+* JQUERY
+* JAVASCRIPT
+## Support and contact details
 If u have any question u can contact me on:
 
-Tel:+250788716357 Email:wwihogora@gmail.com
+* Tel:+250788716357 
+* Email:wwihogora@gmail.com
 
